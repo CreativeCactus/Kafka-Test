@@ -1,0 +1,15 @@
+{
+  "name": "kafkatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "2.6.1",
+    "request": "^2.88.0"
+  }
+}
